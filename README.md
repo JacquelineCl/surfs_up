@@ -1,4 +1,4 @@
-# Surfs up analysis
+# Surf's up analysis
 ## Module 9
 
 ## Overview
@@ -8,7 +8,7 @@ This analysis looked at the temperatures on Oahu for June and December to determ
 The main differences in the temperature between June and December are: 
 * There is a larger range of temperatures in December than June as December had 28 unique temperatures and June had 22 unique temperatures.
 * June's top day was 5 degrees hotter than December's top day.
-* June 
+* December has less temperatures recorded than June. 
 
 ## Summary
 These results require further analysis. The summary information is not calculating as expected. Once that is resolved, further queries could:
